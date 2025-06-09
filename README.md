@@ -1,1 +1,15 @@
-# sge
+# Sistema Gerenciador de Estoque
+- Status: em desenvolvimento
+- Tecnologias aplicadas:
+    - Hibernate ORM
+    - Swing (Java)
+- Time de desenvolvedores:
+    - eu
+- Objetivo do Software:
+    - O Sistema Gerenciador de Estoque visa facilitar o cadastro de produtos, vendas e entradas de produtos.
+- Funcionalidades do sistema:
+    - Cadastrar, listar, editar e excluir produtos;
+    - Cadastrar, listar e excluir vendas;
+    - Cadastrar, listar e excluir entrada de produtos;
+    - Cadastrar, listar, editar e excluir usuários com permissões específicas;
+    - Restringir acesso de acordo com permissões do usuário.
